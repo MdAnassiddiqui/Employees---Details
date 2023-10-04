@@ -1,0 +1,10 @@
+[
+    {
+        "name": "asdf",
+        "username": "sdfg",
+        "password": "123",
+        "designation": "CEO",
+        "department": "Software Enginner",
+        "salary": 10000,
+        "hoursWorked": 50
+    }
